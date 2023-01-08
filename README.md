@@ -1,2 +1,2 @@
 # portfolio
-Porfolio Web site for all my page
+Porfolio Web site for all my projects
